@@ -1,0 +1,59 @@
+
+best epsilon 1.48
+best number of clusters 2
+best minPoints 2
+best outliers 1
+best standard deviation 8.5
+best silhouette 0.809289249911
+
+CLUSTER 1
+AVERAGE_http:__www.ghana.gov.gh_images_documents_constitution_ghana.pdf
+AVERAGE_http:__www.ghana.gov.gh_images_documents_edu_meet_the_press.pdf
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_deputy-ministers
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_ministers
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_ministers-of-state
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_ministries
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_regional-ministers
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_features
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_meet-the-press
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_news
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_press-release
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_regional-news
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_reports
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_speeches 
+
+CLUSTER 2
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_ghana-at-a-glance
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_maps-of-national-resources
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_brong-ahafo
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_central
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_eastern-region
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_greater-accra
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_upper-east
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_upper-west
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_regions_volta
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_the-national-anthem
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_the-national-flag
+AVERAGE_http:__www.ghana.gov.gh_index.php_about-ghana_the-national-pledge
+AVERAGE_http:__www.ghana.gov.gh_index.php_contacts
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_council-of-state
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_government-institutions
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_ministers-of-state_3403-yaw-osafo-maafo-senior-minister
+AVERAGE_http:__www.ghana.gov.gh_index.php_governance_regional-ministers_3486-sulemana-alhassan-upper-west-region
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_features_3803-thinking-of-the-environment-70-is-a-sign-of-green-wisdom_tmpl=component&print=1&layout=default&page=
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_features_4314-the-national-digital-property-address-system-a-tool-for-growth
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_features_4330-monetary-policy-committee-of-bank-of-ghana-assesses-economy-facts-figures
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_isd
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_media-houses
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_news_4351-finance-ministry-holds-dissemination-workshop-on-2017-annual-report-on-petroleum-funds
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_news_4356-745-000-jobs-created-under-planting-for-food-and-jobs-real-dr-akoto
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_news_4357-dr-bawumia-back-home-from-medical-leave-abroad
+AVERAGE_http:__www.ghana.gov.gh_index.php_media-center_regional-news_3822-appusa-donates-100-dual-desks-to-ges-at-pusiga_tmpl=component&print=1&layout=default&page=
+AVERAGE_http:__www.ghana.gov.gh_index.php_news_3911-national-policy-summit-opens-in-accra
+AVERAGE_http:__www.ghana.gov.gh_index.php_news_4349-wb-supports-ministry-of-toursim-arts-and-culture-with-us-50-million
+AVERAGE_http:__www.ghana.gov.gh_index.php_news_4410-government-will-strengthen-the-pillars-of-security-president
+AVERAGE_http:__www.ghana.gov.gh_index.php_news_4422-28-february-christiansborg-crossroad-shooting-commemorated 
+
+OUTLIERS 
+AVERAGE_ghana.gov.gh_ 
